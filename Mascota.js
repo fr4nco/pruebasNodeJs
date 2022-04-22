@@ -1,0 +1,1 @@
+let mascotas = [ perro , gato , pez , hamster , tortuga , 'No tiene' ]
